@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-I’m a software engineer with 15+ years of combined experience in:
+I’m a software engineer with 7+ years of combined experience in:
 
-- **Java backend development**
+- **Java backend developmen*
 - **Fullstack development**
 - **Cloud architecture & DevOps** (AWS, Azure, GCP)
 - **Distributed systems & microservices**
